@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2e3d"/>
+      <stop offset="100%" stop-color="#0e7c66"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="url(#bgGrad)" stroke="#5fd6b8" stroke-width="3"/>
+  <!-- Curva de confiabilidad estilizada -->
+  <path d="M 35 140 Q 70 60 100 60 Q 130 60 165 140" fill="none" stroke="#5fd6b8" stroke-width="5" stroke-linecap="round"/>
+  <!-- Gota / amortiguador -->
+  <path d="M100 45 C 112 70, 124 88, 100 105 C 76 88, 88 70, 100 45 Z" fill="#ffffff" opacity="0.9"/>
+  <circle cx="100" cy="92" r="6" fill="#0b2e3d"/>
+  <text x="100" y="172" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#ffffff" text-anchor="middle" letter-spacing="0.5">CONFIABILIDAD</text>
+</svg>
