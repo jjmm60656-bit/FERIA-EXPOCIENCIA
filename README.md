@@ -105,13 +105,18 @@ ajuste de distribuciones, simulación, AMEF).
 
 ---
 
-## 👥 Integrantes del proyecto original
-         Nombre                     carera                   Orcid
-- Azurduy Zambrana Ángel Moisés   — Ing. Sistemas   -0009-0003-4458-9355
-- Villarroel Rocha Jhoel Arturo   — Ing. Sistemas   -0009-0004-8384-3763
-- Montenegro Niño de Guzmán Derek — Ing. Redes      -0009-0005-9438-7705
-- Magne Manzano Víctor Alejandro  — Ing. Sistemas   -0009-0001-8467-2036
-- Bulacia Vaca Yoel               — Ing. Informática-0009-0004-6166-0333
+## 👥 Integrantes del proyecto 
+|           NOMBRE               |      ORCID        | CARRERA        |
+|--------------------------------|-------------------|----------------|
+|Azurduy Zambrana Ángel Moisés   |0009-0003-4458-9355|Ing. Sistemas   |
+|--------------------------------|-------------------|----------------|
+|Villarroel Rocha Jhoel Arturo   |0009-0004-8384-3763|Ing. Sistemas   |
+|--------------------------------|-------------------|----------------|
+|Montenegro Niño de Guzmán Derek |0009-0005-9438-7705|Ing. Redes      |
+|--------------------------------|-------------------|----------------|
+|Magne Manzano Víctor Alejandro  |0009-0001-8467-2036|Ing. Sistemas   |
+|--------------------------------|-------------------|----------------|
+|Bulacia Vaca Yoel               |0009-0004-6166-0333|Ing. informatica|
 
 **Tutores:** MSc. Ing. Diego Antequera Virhuez / MSc. Ing. Miguel Ángel Guthrie Pacheco
 
